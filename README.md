@@ -2,7 +2,7 @@
 
 Description:
 
-1This code can detect object from image as well as in real time. I have used YoloV3 for object detection and COCo dataset which can identify 80 types of object.
+1.This code can detect object from image as well as in real time. I have used YoloV3 for object detection and COCo dataset which can identify 80 types of object.
 
 2.The yolo3.weights can be find in the followwing link: https://drive.google.com/file/d/1aQn8Lh1wVhIKMkn0wWxvRt12p1-4EBlO/view?usp=sharing
 
