@@ -6,5 +6,5 @@ This code can detect object from image as well as in real time. I have used Yolo
 
 
 Direction:
-1. coco.names, YOLOV3.cfg, YOLOV3.weight file have to be in the same folder
+1. coco.names, yolov3.cfg, yolo3.weights file have to be in the same folder
 2. Press "q"  in  real time object detection for breaking the loop.
