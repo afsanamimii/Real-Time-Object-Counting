@@ -8,9 +8,8 @@ https://user-images.githubusercontent.com/61627644/151691908-5aec0c99-e76b-4afa-
 
 
 
-How to Run:
-1. For detecting object from image run Count object from image(YOLOV3).ipynb file
-2. For detecting object from real time run 
+
+
 
 
 
@@ -23,6 +22,13 @@ Description:
 3.In "object detection count In realtime example.mp4" I have recorded the output of real time object count.
 
 4.In "example1" and "example2" I have showed the output of object count from image
+
+
+
+How to Run:
+1. For installing all dependdecy use requirements.txt file
+2. For detecting object from image run Count object from image(YOLOV3).ipynb file
+3. For detecting object from real time run Real time object count (YOLOV3).ipynb
 
 
 Direction:
