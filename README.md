@@ -9,7 +9,8 @@ https://user-images.githubusercontent.com/61627644/151691908-5aec0c99-e76b-4afa-
 
 
 How to Run:
-1. For detecting object from image run 
+1. For detecting object from image run Count object from image(YOLOV3).ipynb file
+2. For detecting object from real time run 
 
 
 
