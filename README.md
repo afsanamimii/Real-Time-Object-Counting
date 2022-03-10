@@ -15,13 +15,15 @@ https://user-images.githubusercontent.com/61627644/151691908-5aec0c99-e76b-4afa-
 
 Description:
 
-1.This code can detect object from image as well as in real time. I have used YoloV3 for object detection and COCO dataset which can identify 80 types of object.
+1.This project can detect object in real time by analysis every frame. 
+
+2.YoloV3 have been used for object detection which is trained on COCO dataset with 80 classes.
 
 2.The yolo3.weights can be find in the followwing link: https://drive.google.com/file/d/1aQn8Lh1wVhIKMkn0wWxvRt12p1-4EBlO/view?usp=sharing
 
-3.In "object detection count In realtime example.mp4" I have recorded the output of real time object count.
+3.In "object count In realtime example.mp4" I have recorded the output of real time object count.
 
-4.In "example1" and "example2" I have showed the output of object count from image
+4.In "example1" and "example2"  the output of object count from image is shown.
 
 
 
